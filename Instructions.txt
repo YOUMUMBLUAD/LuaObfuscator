@@ -1,0 +1,4 @@
+1. Open "In.lua" and put the luascript you want to obfuscate.
+2. Run "Regular Obfuscate.bat" of regular lua, And "Roblox Lua Obfuscator.bat" for roblox to obfuscate.
+3. Open "Out.lua" and enjoy your new script.
+4. *OPTIONAL* After you saved your new script, delete "Out.lua"
